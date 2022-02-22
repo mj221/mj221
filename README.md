@@ -24,7 +24,7 @@ I am a software developer, currently exploring the world of Web3 and all kinds o
   <summary>Some interesting facts about me! (Click)</summary>
   <br>
   
-  - In the mean time, I do Cryptocurrency and Forex trading and am always in constant look out for hidden investment Gems⭐️ in the Blockchain space.
+  - In the mean time, I do Cryptocurrency and Forex trading and am always in constant look out for rare Gems⭐️ (investments) in the Blockchain space.
   
   - Interested in NFTs and Metaverses.
 
