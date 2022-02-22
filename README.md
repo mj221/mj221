@@ -18,7 +18,7 @@ I am a full stack developer, currently exploring the world of Web3 and all kinds
 
 - 💻 Working as a **Full Stack Developer** to accomodate my needs for Web3 projects in Ethereum and Solana.
 - ☀️ Currently learning Rust smart contract development.
-- 👯 I'd love to collaborate in a DeFi Project with EVM.
+- 👯 I'd love to collaborate in a DeFi Project if it's EVM compatible.
  <br>
 <details>
   <summary>Some interesting facts about me! (Click)</summary>
