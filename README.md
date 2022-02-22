@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ### Hey, Minjae Lee here 👋. MJ for short.
 I am a software developer, currently exploring the world of Web3 and all kinds of things Blockchain. I love experimenting with new technologies and building small projects.
 
-- 💻 Working as a **Full Stack Developer** to accomodate my needs for Web3 projects in Ethereum and Solana.
-- ☀️ Currently learning Rust smart contract development.
+- 💻 Working as a **Full Stack Developer**.
+- ☀️ Currently learning Rust smart contract development on Solana. Working with Web3 projects on Ethereum.
 - 👯 I'd love to collaborate in a DeFi Project if it's EVM compatible.
  <br>
 <details>
