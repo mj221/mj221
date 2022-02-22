@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hey, Minjae Lee here 👋. MJ for short.
-I am a full stack developer, currently exploring the world of Web3 and all kinds of things Blockchain. I love experimenting with new technologies and building small projects.
+I am a software developer, currently exploring the world of Web3 and all kinds of things Blockchain. I love experimenting with new technologies and building small projects.
 
 - 💻 Working as a **Full Stack Developer** to accomodate my needs for Web3 projects in Ethereum and Solana.
 - ☀️ Currently learning Rust smart contract development.
