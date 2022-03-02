@@ -52,18 +52,19 @@ Explore some of the projects I've worked on/working on:
 <a href="https://github.com/mj221/yield-aggregator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=yield-aggregator&show_owner=true&theme=radical" />
 </a>
+<a href="https://github.com/mj221/git-exchange">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=gix-exchange&show_owner=true&theme=radical" />
+</a>
+<a href="https://github.com/mj221/covid-shopper-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=covid-shopper-app&show_owner=true&theme=radical" />
+</a>
 <a href="https://github.com/mj221/crowdfunding-master">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=crowdfunding-master&show_owner=true&theme=radical" />
 </a>
 <a href="https://github.com/mj221/defi-farm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=defi-farm&show_owner=true&theme=radical" />
 </a>
-<a href="https://github.com/mj221/covid-shopper-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=covid-shopper-app&show_owner=true&theme=radical" />
-</a>
-<a href="https://github.com/mj221/git-swap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=git-swap&show_owner=true&theme=radical" />
-</a>
+
 
 
 
