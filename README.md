@@ -26,7 +26,7 @@ I am a software developer, currently exploring the world of Web3 and all kinds o
   
   - In the mean time, I do Cryptocurrency and Forex trading.
  
-  - Always in constant look out for rare Gems⭐️ (investments) in the Blockchain space. Regularly looking into hot narrative plays and major disruptors. 
+  - Always in constant look out for rare Gems⭐️ (investments) in the Blockchain space. Regularly looking into hot narrative plays and potential disruptors in fintech. 
   
   - Fascinated by long-term potential of NFTs and Metaverses. 
 
