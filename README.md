@@ -21,7 +21,7 @@ I am a software developer, currently exploring the world of Web3 and all kinds o
 - 👯 I'd love to collaborate in DeFi Projects on EVM.
  <br>
 <details>
-  <summary>Some interesting facts about me! (Click)</summary>
+  <summary>Some interesting facts about me! :point_left:(Click)</summary>
   <br>
   
   - In the mean time, I do Cryptocurrency and Forex trading.
