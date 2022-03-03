@@ -81,5 +81,6 @@ Explore some of the projects I've worked on/working on:
 <hr>
 
 <p align="center">
-  <i>I am a verified Brave content creator and I'd love it if you could donate BAT under my name if my contents has helped you in any way! <br/>You can do so natively through Brave browser. Cheers! </i>
+   <i>I am a verified Brave content creator and I'd love it if you could donate BAT <img href="https://brave.com/" height="25"src="https://user-images.githubusercontent.com/50122869/156511265-5a829ed3-3dfd-41c0-bc82-919b8203022f.png">&nbsp; under my name if my contents helped in any way! <br/>You can do so natively through Brave browser. Cheers! 
+   </i>
 <p align="center">
