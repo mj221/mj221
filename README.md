@@ -68,9 +68,6 @@ Explore some of the projects I've worked on/working on:
 </a>
 
 
-
-
-
 <hr>
 <p align="center">
   <i>Need me for something? Connect with me here!</i>
@@ -80,3 +77,9 @@ Explore some of the projects I've worked on/working on:
     <a href="https://github.com/mj221" alt="GitHub"><img src="https://github.com/mj221/mj221/blob/main/git-logo2.png"></a>
 </p>
 </p>
+
+<hr>
+
+<p align="center">
+  <i>I am a verified Brave content creator and I'm open for BAT token donations through the Brave browser if any of my contents has helped you in any way! Cheers. </i>
+<p align="center">
