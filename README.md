@@ -81,5 +81,5 @@ Explore some of the projects I've worked on/working on:
 <hr>
 
 <p align="center">
-  <i>I am a verified Brave content creator and I'd love it if you could donate under my name if any of my content has helped you in any way! <br/>You can do so natively through Brave browser. Cheers! </i>
+  <i>I am a verified Brave content creator and I'd love it if you could donate under my name if my contents has helped you in any way! <br/>You can do so natively through Brave browser. Cheers! </i>
 <p align="center">
