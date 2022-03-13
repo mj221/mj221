@@ -42,7 +42,7 @@ I am a software developer, currently exploring the world of Web3 and all kinds o
 
 Here are some languages I like to use ✍️. ReactJS is my specialty but I can also TypeScript if required.
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mj221&layout=compact&theme=radical&langs_count=6&hide=html,php,css,haskell,visual%20basic)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mj221&layout=compact&theme=radical&langs_count=6&hide=html,php,css,haskell,visual%20basic,scss)
 
 <hr>
 
