@@ -66,6 +66,12 @@ Explore some of the projects I've worked on/working on:
 <a href="https://github.com/mj221/defi-farm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=defi-farm&show_owner=true&theme=radical" />
 </a>
+<a href="https://github.com/mj221/nft-minter-eth">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=nft-minter-eth&show_owner=true&theme=radical" />
+</a>
+<a href="https://github.com/mj221/sweeter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=sweeter&show_owner=true&theme=radical" />
+</a>
 
 
 <hr>
