@@ -79,7 +79,7 @@ Explore some of the projects I've worked on/working on:
   <i>Need me for something? Connect with me here!</i>
 <p align="center">
     <a href="https://twitter.com/mjkid221" alt="Twitter"><img src="https://github.com/mj221/mj221/blob/main/twitter.png"></a>
-    <a href="https://www.linkedin.com/in/mj-minjae-lee-23695918b/" alt="Linkedin"><img src="https://github.com/mj221/mj221/blob/main/linkedin.png"></a>
+    <a href="https://www.linkedin.com/in/minjae-mj-lee-23695918b/" alt="Linkedin"><img src="https://github.com/mj221/mj221/blob/main/linkedin.png"></a>
     <a href="https://github.com/mj221" alt="GitHub"><img src="https://github.com/mj221/mj221/blob/main/git-logo2.png"></a>
 </p>
 </p>
