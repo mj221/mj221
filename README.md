@@ -54,6 +54,12 @@ Explore some of the projects I've worked on/working on:
 <a href="https://github.com/mj221/git-exchange">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=gix-exchange&show_owner=true&theme=radical" />
 </a>
+<a href="https://github.com/mj221/MelonDAO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=MelonDAO&show_owner=true&theme=radical" />
+</a>
+<a href="https://github.com/mj221/MelonNameService">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=MelonNameService&show_owner=true&theme=radical" />
+</a>
 <a href="https://github.com/mj221/yield-aggregator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=yield-aggregator&show_owner=true&theme=radical" />
 </a>
@@ -72,12 +78,14 @@ Explore some of the projects I've worked on/working on:
 <a href="https://github.com/mj221/nft-minter-eth">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=nft-minter-eth&show_owner=true&theme=radical" />
 </a>
-<a href="https://github.com/mj221/MelonDAO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=MelonDAO&show_owner=true&theme=radical" />
+<a href="https://github.com/mj221/kaktana-react-lightweight-charts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=kaktana-react-lightweight-charts&show_owner=true&theme=radical" />
 </a>
 <a href="https://github.com/mj221/poi_token">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mj221&repo=poi_token&show_owner=true&theme=radical" />
 </a>
+
+
 
 
 
