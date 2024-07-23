@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey, Minjae Lee here 👋. MJ for short.
+### Hey, MJ here.
+My main github is now in https://github.com/mjkid221. Most of my projects have migrated there.
+
 I am a software developer, currently exploring the world of Web3 and all kinds of things Blockchain. I love experimenting with new technologies and building small projects.
 
 - 💻 Working as a **Full Stack Developer**.
